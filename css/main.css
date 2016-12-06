@@ -1,11 +1,10 @@
 /* Inserta tu código aquí */
 *
-{
-    outline: 1px solid pink;
-}
+
 body
 {
-    
+    margin:0;
+    padding: 0px;
 }
 h1 ,h2
 {
@@ -93,6 +92,7 @@ footer
     {
       width: 100%;  
     }
+   
 	
 	
 }
